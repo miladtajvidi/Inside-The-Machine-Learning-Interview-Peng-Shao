@@ -18,4 +18,15 @@ By identifying the most crucial ML topics and adopting a solid studying strategy
 
 # Bibliography
 
-🔹
+🔹 [A/B Tests vs Multivariate Tests (2019)](https://mixpanel.com/blog/ab-tests-vs-multivariate-tests/) <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+🔹 []() <br>
+
